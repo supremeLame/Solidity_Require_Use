@@ -2,7 +2,7 @@
 
 Simple Smart Contract require usage
 ======
-**Simple Smart Contract require usage** is a 
+**Simple Smart Contract require usage** is a simple smart contract that 
 
 ## Download
 * [Version 1.0](https://github.com/supremeLame/Solidity_Require_Use.git)
@@ -11,10 +11,7 @@ Simple Smart Contract require usage
 ---
 ```
 $ git clone https://github.com/username/software-project.git
-$ chmod +x Dumpo_Acuator-v1.0
-$ ./Dumpo_Acuator-v1.0 https://www.target.com
-OR
-$ ./Dumpo_Acuator-v1.0 httpss//www.target.com
+Load to https://remix.ethereum.org/
 ```
 
 ## Contributors
