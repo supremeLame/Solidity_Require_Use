@@ -1,4 +1,4 @@
-![Image](https://images.uncyclomedia.co/uncyclopedia/en/e/e2/Dumbo.GIF "icon")
+![Image](https://external-preview.redd.it/NaFzmSbDX2T2RALMxy2tmGJN_gPVNH9lJggCKUDDqcc.jpg?s=0f431e3bd9cfc0bd415e237880cb0bf177a8f872 "icon")
 
 Simple Smart Contract require usage
 ======
