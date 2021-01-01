@@ -2,7 +2,7 @@
 
 Simple Smart Contract require usage
 ======
-**Simple Smart Contract require usage** is a simple smart contract that 
+**Simple Smart Contract require usage** is a simple smart contract that demonstrates the use of require. The require function either creates an error of type Error(string) or an error without any error data and it should be used to ensure valid conditions that cannot be detected until execution time. This includes conditions on inputs or return values from calls to external contracts. Also the Gas fee of require is much much smaller than the assert keyword.
 
 ## Download
 * [Version 1.0](https://github.com/supremeLame/Solidity_Require_Use.git)
@@ -10,7 +10,7 @@ Simple Smart Contract require usage
 ## Usage
 ---
 ```
-$ git clone https://github.com/username/software-project.git
+$ git clone https://github.com/supremeLame/Solidity_Require_Use.git
 Load to https://remix.ethereum.org/
 ```
 
