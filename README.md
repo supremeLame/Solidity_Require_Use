@@ -1,4 +1,4 @@
-![Image](https://external-preview.redd.it/NaFzmSbDX2T2RALMxy2tmGJN_gPVNH9lJggCKUDDqcc.jpg?s=0f431e3bd9cfc0bd415e237880cb0bf177a8f872 "icon")
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/80px-Ethereum_logo_2014.svg.png "icon")
 
 Simple Smart Contract require usage
 ======
